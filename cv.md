@@ -83,3 +83,5 @@ Faculty of TECHNICAL OPERATION OF AUTOMOBILES, Minsk (2012-2018)
 * [Shelter](https://alekseyeroh.github.io/shelter/main/)
 
 * [cssBayan](https://alekseyeroh.github.io/cssBayan/cssBayan/index.html)
+
+* [Library](https://alekseyeroh.github.io/library/main/)
